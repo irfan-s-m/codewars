@@ -11,5 +11,3 @@ function fakeBin(x) {
     }
     return finalString;
 }
-
-console.log(fakeBin("2372398429852"));
